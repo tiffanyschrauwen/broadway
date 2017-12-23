@@ -1,5 +1,5 @@
 body{
-  font-family: Helvetica;
+  font-family: "Helvetica", sans-serif;
   text-align: center;
 }
 
@@ -14,7 +14,6 @@ h1, h2, h3{
 
 .hero h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 .hero h2 {
@@ -29,7 +28,7 @@ h1, h2, h3{
   font-size: 23px;
 }
 
-p{
+.supporting p{
   font-size: 14px;
 }
 
@@ -43,4 +42,5 @@ p{
   background-color: dimgrey;
   text-align: left;
   color: white;
+  font-size: 11px;
 }
